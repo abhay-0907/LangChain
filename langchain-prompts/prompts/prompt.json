@@ -1,0 +1,17 @@
+{
+    "name": null,
+    "input_variables": [
+        "language",
+        "level",
+        "topic"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "\n    You are a good topic explainer using storytelling method.\nExplain the given {topic} in a simple way.\n\nImportant Instructions:\n1. Use storytelling.\n2. Use {language}.\n3. Level: {level}.\n",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}
