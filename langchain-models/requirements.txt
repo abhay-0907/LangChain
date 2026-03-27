@@ -18,6 +18,7 @@ langchain-huggingface
 transformers
 huggingface-hub
 pytorch
+streamlit
 # Environment Variable Management
 python-dotenv
 
